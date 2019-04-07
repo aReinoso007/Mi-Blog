@@ -1,0 +1,28 @@
+
+*{
+    margin: 10px; /*margenes*/
+    padding: 2px; /*ESPACIO INTERNO DESDE EL BORDE HASTA LA ETIQUETA*/
+    /*color: deeppink;
+    background: beige;*/
+    /*border: 1px;*/
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    text-align: left;
+    font-weight: bolder;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-anchor: middle;
+    align-content: center;
+    
+}
+nav{
+    display: block;
+}
