@@ -26,3 +26,15 @@ p{
 nav{
     display: block;
 }
+table{
+    /*class:tg; 
+    style:undefined;*/
+    table-layout: fixed; 
+    width: 309px
+}
+footer{
+    text-indent: 5px"
+}
+img{
+    position: relative;
+}

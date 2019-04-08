@@ -1,16 +1,21 @@
-<DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="es">
 <head>
-    <header>
-        <center>
-            <img src="imagenes/transparente.gif"/>
-        </center>
-    </header>
-    <meta charset="UTF-8 "/>
-    <title style="text-transform: capitalize bolder">Mi Blog</title>
+    <title>Mi Blog</title>
+    <meta charset="utf-8"/>
     <link rel="stylesheet" href="estilos/styles.css" type="text/css"/>
+    <style type="text/css">
+        .tg  {border-collapse:collapse;border-spacing:0;}
+        .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+        .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+        .tg .tg-0lax{text-align:left;vertical-align:top}
+        .tg .tg-s268{text-align:left}
+        </style>
 </head>
 <body>
+    <header>
+        <img style="background-position:center" src="imagenes/transparente.gif" alt="transparente"/>
+    </header>
     <h1 style="text-align: center">Practica 1 Programacion Hipermedial</h1>
     <nav>
         <ul>
@@ -33,24 +38,37 @@
             <h1>
             Horario de programacion hipermedial
             </h1>
-            <table border=1px>
-                <tr>
-                    <td><Strong>Dia</Strong></td>
-                    <td><Strong>Horario</Strong></td>
-                </tr>
-                <tr>
-                    <td> Lunes</td>
-                    <td> 18:00 - 20:00</td>
-                </tr>
-                <tr>
-                    <td>Jueves</td>
-                    <td>18:00 - 20:00</td>
-                </tr>
-                <tr>
-                    <td>Viernes</td>
-                    <td>16:00 - 18:00</td>
-                </tr>
-            </table>
+           <div>
+                <table class="tg" style="undefined;table-layout: fixed; width: 409px">    
+                    <colgroup>
+                        <col style="width: 120.2px">
+                        <col style="width: 137.2px">
+                        <col style="width: 151.2px">
+                    </colgroup>
+                    <tr>
+                        <th class="tg-0lax" rowspan="2">Tabla Avanzada<br></th>
+                        <th class="tg-0lax" colspan="2">Cabecera Multiples Columnas<br></th>
+                    </tr>
+
+                    <tr>
+                        <td class="tg-s268">Primera Col. Cab.</td>
+                        <td class="tg-s268">Segunda Col. Cab</td>
+                    </tr>
+                    <tr>
+                        <td class="tg-0lax">Fila 1<br></td>
+                        <td class="tg-0lax">Fila 1 Columna 1</td>
+                        <td class="tg-0lax">Fila 1 Columna 2</td>
+                    </tr>
+                    <tr>
+                        <td class="tg-0lax">Fila 2</td>
+                        <td class="tg-0lax">Fila 2 Columna 1</td>
+                        <td class="tg-0lax">Fila 2 Columna 2</td>
+                    </tr>
+                    <tr>
+                        <td class="tg-0lax" colspan="3">Pie de tabla.</td>
+                    </tr>
+                </table>
+           </div>
     </section>
     <section>
         <h1>Hipermedia</h1>
@@ -61,7 +79,7 @@
             de información emergentes, de tal modo que el resultado obtenido, además, 
             enga la posibilidad de interactuar con los usuarios. <br>
             <br>
-            <img src="imagenes/hipermdia.jpg"/>
+            <img src="imagenes/hipermdia.jpg" alt="hipermdia"/>
             <br>
             La estructura hipermedia de estos contenidos, califica especialmente al 
             conjunto de los mismos, como herramienta de comunicación e interacción humanas. 
@@ -88,15 +106,15 @@
             <p><em>Informacion obteneida desde<a href="https://es.wikipedia.org/wiki/Hipermedia">Wikipedia</a></em></p>
         </aside>
     </section>
-</body>
-<footer style="text-indent: 5px">
+<footer>
     <p>Alex Jessiel Reinoso Gonzalez</p>
     <p>Estudiante</p>
     <p>Universidad Politecnica Salesiana</p>
-    <p>Telefono: <a href="tel:+593 998952718">0998952718</a></p>
+    <p>Telefono: <a href="tel:+593998952718">0998952718</a></p>
     <p>E-mail: <a href="mailto:areinosog@est.ups.edu.ec">areinosog@est.ups.edu.ec</a></p>
     Todos los derechos reservados &copy; 
 </footer>
+</body>
 <!--Ir a tutorial 6 dentro del libro guia
 iframe para incrustar videos dentro de una pagina
 Aqui como terminar el cuadro 
