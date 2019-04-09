@@ -5,12 +5,13 @@
   1.2 Crear sitios web aplicando estándares actuales.
   1.3 Desarrollar aplicaciones web interactivas y amigables al usuario
 **Instrucciones**
-Estructurar un sitio web estático usando HTML5. El sitio web será informativo sobre un tema que será autoría del estudiante. El sitio web deberá contar con una página principal denominada index.html y debe contener al menos cinco páginas
-*.html más. Todas las páginas contaran con un menú de navegación que permitirá al usuario moverse entre todas las páginas HTML.
+Estructurar un sitio web estático usando HTML5. El sitio web será informativo sobre un tema que será autoría del estudiante. El sitio web deberá contar con una página principal denominada index.html y debe contener al menos cinco páginas *.html más. Todas las páginas contaran con un menú de navegación que permitirá al usuario moverse entre todas las páginas HTML.
 ![Estructura](https://cdn.lynda.com/video/404710-171-635948871182575118_338x600_thumb.jpg)
+
 En donde, la etiqueta <header> deberá contener una imagen (logo) relacionada al tema elegido.
   
 Además, la etiqueta <footer> deberá tener la información del estudiante como nombres completos, organización, correo (usar hipervínculo, mailto), teléfono (usar hipervínculo, tel), además deberá tener el símbolo de copyright junto a la leyenda de “Todos los derechos reservados”. Por ejemplo, © Todos los derechos reservados.
+  
 Las páginas *.html deberán tener al menos una etiqueta <section>, <article> y <aside>.
 
 De igual manera, se pide que al menos una de las páginas dentro del contenido de la etiqueta <article>, tengan los siguientes requisitos:
@@ -20,10 +21,9 @@ De igual manera, se pide que al menos una de las páginas dentro del contenido d
   2.3 •	Manejar listas ordenadas o desordenadas con al menos cinco ítems.
   2.4 •	Tener al menos cinco etiquetas de texto que se encuentran en la figura 1- 16 del texto guía de la asignatura.
  
- Asi mismo, se pide que todos los artículos tengan al menos una imagen cada uno. Se pide que todas las imágenes están almacenadas en una carpeta llamada “images”. Por lo tanto, se debe trabajar con rutas relativas.
+Asi mismo, se pide que todos los artículos tengan al menos una imagen cada uno. Se pide que todas las imágenes están almacenadas en una carpeta llamada “images”. Por lo tanto, se debe trabajar con rutas relativas.
  
-Finalmente, se pide que una de las páginas tenga al menos dos secciones (<section>) con tres artículos (<article>) cada sección. Luego, cada sección debe tener un encabezado (<header>), en donde, se ubicaran enlaces que permitan
-navegar entre los artículos usando id’s (ver, página 63 del texto guía).
+Finalmente, se pide que una de las páginas tenga al menos dos secciones (<section>) con tres artículos (<article>) cada sección. Luego, cada sección debe tener un encabezado (<header>), en donde, se ubicaran enlaces que permitan navegar entre los artículos usando id’s (ver, página 63 del texto guía).
   
   **Actividades a desarrollar**
   1.1 1.	Crear un repositorio en GitHub con el nombre “Practica01 – Mi Blog”.
