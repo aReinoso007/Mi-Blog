@@ -26,24 +26,24 @@ Finalmente, se pide que una de las páginas tenga al menos dos secciones (<secti
 navegar entre los artículos usando id’s (ver, página 63 del texto guía).
   
   **Actividades a desarrollar**
-  1.1 1.	Crear un repositorio en GitHub con el nombre “Practica01 – Mi Blog”
+  1.1 1.	Crear un repositorio en GitHub con el nombre “Practica01 – Mi Blog”.
   1.2 2.	Realizar un commit y push por cada requerimiento de los puntos antes descritos.
   1.3 3.	Al finalizar la práctica se debe validar todas las páginas HTML creadas usando el W3C Validator.
   1.4 4.	Luego, se debe crear el archivo README del repositorio de GitHub.
   1.5 5.	Generar informe de los resultados en el formato de prácticas. Debe incluir:
-    1.5.1 El desarrollo de cada uno de los puntos antes descritos así como las etiquetas HTML utilizadas para resolver cada punto
-    1.5.2 b.	La evidencia de la correcta estructuración de las páginas HTML. Para lo cual, se puede generar fotografías instantáneas    (pantallazos).
+    1.5.1 El desarrollo de cada uno de los puntos antes descritos así como las etiquetas HTML utilizadas para resolver cada punt.o
+    1.5.2 b.	La evidencia de la correcta estructuración de las páginas HTML. Para lo cual, se puede generar fotografías instantáneas  .  (pantallazos).
     1.5.3 c.	La evidencia de la validación de cada página HTML.
     1.5.4 d.	El informe debe incluir conclusiones apropiadas.
-    1.5.5 e.	En el informe se debe incluir la información de GitHub (usuario y URL del repositorio de la práctica)
-    1.5.6 f.	En el informe se debe incluir la información de GitHub (usuario y URL del repositorio del Tutorial 01
+    1.5.5 e.	En el informe se debe incluir la información de GitHub (usuario y URL del repositorio de la práctica).
+    1.5.6 f.	En el informe se debe incluir la información de GitHub (usuario y URL del repositorio del Tutorial 01.
 - Curbside Thai)
     1.5.7 g.	En el informe se debe incluir la firma digital del estudiante.
    1.6.6 En el archivo README del repositorio debe constar la misma información del informe de resultados de la práctica que se indica en el siguiente punto.
    
 **RESULTADOS OBTENIDOS:**
-   1.1 •	Tener el conocimiento suficiente para que el estudiante pueda entender y organizar de una mejor manera los sitios de web y de negocios en Internet
+   1.1 •	Tener el conocimiento suficiente para que el estudiante pueda entender y organizar de una mejor manera los sitios de web y de negocios en Internet.
 **CONCLUSIONES:**
-   •	Los estudiantes podrán organizar sitios web basados en el lenguaje de etiquetado HTML
+   •	Los estudiantes podrán organizar sitios web basados en el lenguaje de etiquetado HTML.
    **RECOMENDACIONES:**
-1.1 •	Probar la solución de la práctica en al menos tres navegadores web; Google Chrome, Firefox y Safari
+1.1 •	Probar la solución de la práctica en al menos tres navegadores web; Google Chrome, Firefox y Safari.
