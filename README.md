@@ -42,7 +42,7 @@ navegar entre los artículos usando id’s (ver, página 63 del texto guía).
    1.6.6 En el archivo README del repositorio debe constar la misma información del informe de resultados de la práctica que se indica en el siguiente punto.
    
 **RESULTADOS OBTENIDOS:**
-   1.1 •	Tener el conocimiento suficiente para que el estudiante pueda entender y organizar de una mejor manera los sitios de web y de negocios en Internet.
+   •	Tener el conocimiento suficiente para que el estudiante pueda entender y organizar de una mejor manera los sitios de web y de negocios en Internet.
 **CONCLUSIONES:**
    •	Los estudiantes podrán organizar sitios web basados en el lenguaje de etiquetado HTML.
    **RECOMENDACIONES:**
